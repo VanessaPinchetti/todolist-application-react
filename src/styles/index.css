@@ -1,12 +1,70 @@
 
-/* 
+/*
 
     You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
+
+
+    ...Or you can use the import command to include
     other sylesheets into your bunde as well, e.j:
-    
+
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.container {
+  background-color: #ebe9f82d;
+  margin-top: 30px;
+  font-family: sans-serif;
+  text-align: center;
+  padding: 10px;
+  height: 500px;
+  width: 800px;
+}
+
+
+.container h1{
+  font-family: fantasy;
+  padding: 15px; 
+  margin: auto 0;
+  font-size: 70px;
+  color: #1b1b1b;
+}
+
+
+.container h2{
+  color: #1b1b1b;
+  padding-top: 0px;
+  padding-bottom: 25px;
+  font-size: 20px;
+  font-family: fantasy;
+}
+
+
+#button {
+  background-color: #25b0bc;
+  color: white;
+  padding-top: 4px;
+  padding-right: 10px;
+  margin-left: 5px;
+  font-size: 9px;
+  border: 0px solid;
+  border-radius: 2px;
+  width: 15px;
+  height: 19px;
+}
+
+
+.button2 {
+  background-color: #25b0bc;
+  color: #ecf1f1;
+  border-radius: 4px;
+}
+
+
+.assignment{
+  color: #1b1b1b;
+}
+
+
+
+
